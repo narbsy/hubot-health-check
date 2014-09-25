@@ -1,6 +1,6 @@
 {
   "name": "hubot-health-check",
-  "description": "Ridiculously tiny health check for hubot running on marathon"
+  "description": "Ridiculously tiny health check for hubot running on marathon",
   "version": "1.0.0",
   "author": "Chris Narburgh <narbsy@gmail.com>",
   "license": "MIT",
