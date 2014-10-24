@@ -13,4 +13,4 @@ describe 'health-check', ->
     require('../src/health')(@robot)
 
   it 'registers a GET route', ->
-    expect(@robot.router.get).to.have.been.calledWith('/health')
+    expect(@robot.router.get).to.have.been.calledWith('/')

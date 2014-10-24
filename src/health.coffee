@@ -1,3 +1,3 @@
 module.exports = (robot) ->
-  robot.router.get '/health', (req, res) ->
+  robot.router.get '/', (req, res) ->
     res.send 'OK'
